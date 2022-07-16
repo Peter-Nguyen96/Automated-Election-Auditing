@@ -60,7 +60,7 @@ Election Analysis Process and Outcome:
       
  Elections Analysis Summary:
  
-     The script was sucessfull in auditing and determining the winner of the election campaign.  A report of the analysis was automatically generated in the Analysis 
+   The script was sucessfull in auditing and determining the winner of the election campaign.  A report of the analysis was automatically generated in the Analysis    
 folder concluding that the winner was Diana DeGette with 272,892 total votes, and 73.8% of all votes.  The program piloted here can be scalled up or down depending on 
 the type of election being held. Since the county and candidate count use the same code and only address different columns, both could be put in a bigger loop and used 
 to automatically scale as many columns as needed such as in a large federal election.  Another change that can be made is integrating the print to .txt function 
